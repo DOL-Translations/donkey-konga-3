@@ -1,4 +1,4 @@
-# Giftpia
+# Donkey Konga 3
 - File: `Donkey Konga 3 [J].iso`
 - Hash: `877022ACC53A3EB97A4290C45F69BE345DEFA0E0`
 
