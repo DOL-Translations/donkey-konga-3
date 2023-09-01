@@ -1,5 +1,3 @@
-# Game
-
 MODE=Street Performance
 MODE1=Challenge
 MODE2=Battle
@@ -22,15 +20,15 @@ COURSE1=12-Song Set
 COURSE2=Full Set
 
 DESIGNATION=Donkey Kong Country
-DESIGNATION1=タルコンガ王
-DESIGNATION2=タルコンガの達人
-DESIGNATION3=タルコンガマニア
-DESIGNATION4=ＤＫアイランドＮｏ１
-DESIGNATION5=タルコンガの先生
-DESIGNATION6=タルコンガ界　期待の星
-DESIGNATION7=クランキーの弟子
-DESIGNATION8=タルコンガ優等生
-DESIGNATION9=フツーの一般人
+DESIGNATION1=Konga King
+DESIGNATION2=Konga Master
+DESIGNATION3=Konga Maniac
+DESIGNATION4=DK Island Champion
+DESIGNATION5=Konga Teacher
+DESIGNATION6=Konga World Star
+DESIGNATION7=Cranky's Apprentice
+DESIGNATION8=Konga Honor Student
+DESIGNATION9=Novice
 DESIGNATION10=初心者
 DESIGNATION11=超初心者
 
@@ -44,9 +42,9 @@ SONG_SELECT=SONG SELECTION
 2ND=2nd
 3RD=3rd
 
-SYNCHRO=So... Want to know how you synched up?
+SYNCHRO=So.. Want to know how you synced up?
 TIPS_GET=You earned %d coins!
-SYNCHRO_SOLO=Synching results are not available
+SYNCHRO_SOLO=Syncing results are not available
 SYNCHRO_SOLO2=for solo drummers!
 
 CONGRATULATION=Congratulations! It's a new record!
@@ -56,9 +54,9 @@ RANK3=You're ranked #3!
 BADGE_SELECT=Press right or left to choose
 BADGE_SELECT2=and START/PAUSE to confirm.
 
-ANY_BUTTON=何か押してください
+ANY_BUTTON=Press Any Button
 
-MEMO_SELECT=左右で選択 START/PAUSEで終了
+MEMO_SELECT=恒ress START/PAUSE
 MEMO_SELECT2=
 
 TRIAL_LV=Beginner

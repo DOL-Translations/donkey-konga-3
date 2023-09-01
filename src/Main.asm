@@ -54,4 +54,5 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 //Region
 Text($3, "E")
 
+include "Nut.asm"
 include "Resource.asm"

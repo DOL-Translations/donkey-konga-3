@@ -15,12 +15,12 @@ PRICE=404
 4=5
 B=6
 C=4
-RUBY=は　な
+RUBY=
 COMMENT=
 GENRE=1
 
 #2
-SONGNAME=Kimi ni Bump
+SONGNAME=Kimi ni BUMP
 FILENAME=02kimini
 OFFSET=0.6
 LENGTH=180
@@ -34,7 +34,7 @@ PRICE=879
 4=4
 B=4
 C=6
-RUBY=きみ　　　  バ　ン　プ
+RUBY=
 COMMENT=
 GENRE=1
 
@@ -53,7 +53,7 @@ PRICE=382
 4=2
 B=5
 C=5
-RUBY=　　　　　　　　　　　　　　ツー
+RUBY=
 COMMENT=short version
 GENRE=10
 
@@ -72,12 +72,12 @@ PRICE=102
 4=1
 B=5
 C=2
-RUBY=　ハ　ッ　ピ　ー　　　　デ　イ　ズ
+RUBY=
 COMMENT=
 GENRE=1
 
 #5
-SONGNAME=Rokoroushon
+SONGNAME=Rokoroshon
 FILENAME=05LOCO
 OFFSET=2.2
 LENGTH=200
@@ -96,7 +96,7 @@ COMMENT=
 GENRE=1
 
 #6
-SONGNAME=Kore Ga Watashi no Ikiru Michi
+SONGNAME=Kore ga Watashi no Ikiru Michi
 FILENAME=06korega
 OFFSET=2.5
 LENGTH=120
@@ -110,12 +110,12 @@ PRICE=825
 4=3
 B=1
 C=2
-RUBY=　　　　　  わたし　　い　　　　  みち
+RUBY=This Is the Way That I Live
 COMMENT=
 GENRE=1
 
 #7
-SONGNAME=Tomorrow
+SONGNAME=TOMORROW
 FILENAME=07tomorrow
 OFFSET=0.9
 LENGTH=200
@@ -129,7 +129,7 @@ PRICE=1082
 4=3
 B=1
 C=2
-RUBY=　　  ト　  ゥ　  モ　  ロ　  ー
+RUBY=
 COMMENT=
 GENRE=1
 
@@ -186,12 +186,12 @@ PRICE=5210
 4=2
 B=3
 C=1
-RUBY=  き　　　き
+RUBY=
 COMMENT=Atashinchi Ending theme
 GENRE=2
 
 #11
-SONGNAME=Start
+SONGNAME=START
 FILENAME=11start
 OFFSET=2
 LENGTH=120
@@ -205,7 +205,7 @@ PRICE=570
 4=4
 B=6
 C=8
-RUBY= 　ス　タ　ー　ト
+RUBY=
 COMMENT=Detective Conan Theme
 GENRE=1
 
@@ -243,12 +243,12 @@ PRICE=7610
 4=3
 B=7
 C=7
-RUBY=せいしゅんきょうそうきょく
+RUBY=
 COMMENT=Naruto Theme
 GENRE=1
 
 #14
-SONGNAME=ＧＯ!!!
+SONGNAME=GO!!!
 FILENAME=14go
 OFFSET=2
 LENGTH=200
@@ -262,7 +262,7 @@ PRICE=265
 4=4
 B=5
 C=6
-RUBY=  ゴ　ー
+RUBY=
 COMMENT=
 GENRE=1
 
@@ -305,7 +305,7 @@ COMMENT=Crayon Shin-chan Theme
 GENRE=2
 
 #17
-SONGNAME=CHA-LA　HEAD-CHA-LA
+SONGNAME=CHA-LA HEAD-CHA-LA
 FILENAME=17chala
 OFFSET=1.1
 LENGTH=120
@@ -319,7 +319,7 @@ PRICE=318
 4=6
 B=6
 C=3
-RUBY= チ  ャ　  ラ　　　  ヘ  ッ　  チ  ャ  　ラ
+RUBY=
 COMMENT=Dragon Ball Z Theme
 GENRE=2
 
@@ -357,7 +357,7 @@ PRICE=551
 4=4
 B=6
 C=5
-RUBY=  あした
+RUBY=
 COMMENT=Donkey Kong Country Theme
 GENRE=2
 
@@ -376,7 +376,7 @@ PRICE=884
 4=5
 B=4
 C=6
-RUBY=　　　　　　てんごく
+RUBY=
 COMMENT=Donkey Kong Country Ending Theme
 GENRE=2
 
@@ -414,7 +414,7 @@ PRICE=10029
 4=6
 B=8
 C=6
-RUBY=　　　　　　　　  た  　　ほうだい
+RUBY=
 COMMENT=
 GENRE=10
 
@@ -471,7 +471,7 @@ PRICE=785
 4=3
 B=1
 C=3
-RUBY=　　　　  ゆ
+RUBY=
 COMMENT=
 GENRE=10
 
@@ -490,7 +490,7 @@ PRICE=877
 4=1
 B=2
 C=1
-RUBY=  て　　　　　　　　  たいよう
+RUBY=
 COMMENT=
 GENRE=7
 
@@ -509,7 +509,7 @@ PRICE=113
 4=1
 B=2
 C=3
-RUBY=　ビ　　  ン　　  ゴ
+RUBY=
 COMMENT=
 GENRE=7
 
@@ -548,7 +548,7 @@ PRICE=1791
 B=5
 C=8
 RUBY=
-COMMENT=モーツァルト  セレナーデ１３番 ト長調第一楽章  より
+COMMENT=Mozart Serenade No. 13 in G major, 1st movement
 GENRE=4
 
 #30
@@ -585,7 +585,7 @@ PRICE=293
 4=8
 B=6
 C=7
-RUBY=だいらんとう　　　　　　　　　　　　　　　　　　  デラックス
+RUBY=Dairantou Smash Brothers DX
 COMMENT=Super Smash Bros. Melee Opening
 GENRE=0
 
@@ -661,7 +661,7 @@ PRICE=765
 4=8
 B=8
 C=8
-RUBY=　  ド　 ン　 キ　 ー　 ズ　　　　　　　グ　ル　ー　ヴ
+RUBY=
 COMMENT=Donkey Konga 3 Theme
 GENRE=0
 
@@ -699,7 +699,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　  マ　ッ　ピ　ー
+RUBY=
 COMMENT=
 GENRE=8
 
@@ -718,7 +718,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=    パ  ッ  ク　　　　マ　  ン
+RUBY=
 COMMENT=
 GENRE=8
 
@@ -737,7 +737,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　  デ  ィ  グ　ダ　グ
+RUBY=
 COMMENT=
 GENRE=8
 
@@ -756,7 +756,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　　　　　　　　　　とう
+RUBY=
 COMMENT=
 GENRE=8
 
@@ -775,7 +775,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=    ス   カ   イ   キ   ッ   ド
+RUBY=
 COMMENT=
 GENRE=8
 
@@ -794,7 +794,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　　　　　　　　　　　　　　　　　　　　　　  ちじょう
+RUBY=
 COMMENT=
 GENRE=9
 
@@ -813,7 +813,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　　　　　　　　　　　　　　　　　　　　　　  すいちゅう
+RUBY=
 COMMENT=
 GENRE=9
 
@@ -832,7 +832,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　　　　　　でんせつ
+RUBY=
 COMMENT=
 GENRE=9
 
@@ -908,12 +908,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=ほし　　　　　　　　　　　　ゆめ　  いずみ　ものがたり
+RUBY=
 COMMENT=
 GENRE=9
 
 #49
-SONGNAME=謎 の 村 雨 城
+SONGNAME=Nazo No Murasame
 FILENAME=49murasame
 OFFSET=1.95
 LENGTH=200
@@ -927,7 +927,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=なぞ　　　むらさめじょう
+RUBY=The Mysterious Murasame Castle
 COMMENT=
 GENRE=9
 
@@ -946,7 +946,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　　　　　　　 かがみ
+RUBY=
 COMMENT=
 GENRE=9
 
@@ -984,7 +984,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　  ゼ　ビ　ウ　ス
+RUBY=
 COMMENT=
 GENRE=8
 
@@ -1022,7 +1022,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=　　　　　　　　　　　　　　  ジュニア
+RUBY=
 COMMENT=
 GENRE=9
 
@@ -1065,7 +1065,7 @@ COMMENT=
 GENRE=9
 
 #57
-SONGNAME=見よ、勇者は帰る
+SONGNAME=See, the Conqu'ring Hero Comes!
 FILENAME=57conquer
 OFFSET=0
 LENGTH=180
@@ -1079,7 +1079,7 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=  み　ゆうしゃ  かえ
+RUBY=
 COMMENT=
 GENRE=4
 
