@@ -1,3 +1,7 @@
+ReplaceAsset($549FE8D4, "fs/BananaIsland/island_2d_tex.nut", 80192)
+
+ReplaceAsset($54A48670, "fs/BarrelAttack/BarrelAttack.nut", 2072800)
+
 ReplaceAsset($554B7A74, "fs/Game/Adlib.nut", 1385504)
 ReplaceAsset($55609E94, "fs/Game/Battle.nut", 830304)
 ReplaceAsset($556D49F4, "fs/Game/Challenge.nut", 551136)

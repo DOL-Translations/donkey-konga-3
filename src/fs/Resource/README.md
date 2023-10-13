@@ -1,30 +1,38 @@
 # Resource
 
-- Adlib.res
-    - (Street Performance) If I modify this file, the minigame won't boot
+- Adlib.res (Street Performance)
+    - translated
 - BananaIsland.res 
-    - Complete, revising
+    - translated
 - BarrelAttack.res   
-    - Minigame.  Not unlocked by default, hard to test translation
+    - translated
 - DemoEnding.res
+    - not translated
 - DemoFestival.res
+    - not translated
 - DemoPrologue.res
+    - translated
 - DemoResult.res
+    - not translated
+- DemoStaffRoll.res
+    - not translated
 - Dk3PbChance.res
+    - translated
 - Game.res          
-    - In-game text, mostly translated
+    - translated
 - MemCard.res       
-    - Officially translated
+    - officially translated
 - MemoData.res      
-    - Dixie's Notes / Funky News.  Lots of text
+    - translated
 - SelectString.res  
-    - Menu & submenus, mostly translated
+    - translated
 - SongData.res      
-    - Names of music genres, fully translated
+    - translated
 - SongInfo.res      
-    - Guess what this is
+    - translated
 - SoundSet.res      
-    - Sound buyables
+    - translated
 - SoundSetInfo.res  
-    - Same deal
+    - translated
 - Trial.res
+    - translated

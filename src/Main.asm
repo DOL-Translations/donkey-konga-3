@@ -6,6 +6,7 @@ origin $000000; insert "../input/Donkey Konga 3 [J].iso" // Include Japanese Don
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
+  map '|', 0x00 // End of string 
 
   origin {OFFSET}
   db {TEXT} // ASCII Text To Print
@@ -53,6 +54,8 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 
 //Region
 Text($3, "E")
+origin $45B; db $01
 
+include "Banner.asm"
 include "Nut.asm"
 include "Resource.asm"

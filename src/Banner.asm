@@ -1,0 +1,1 @@
+ReplaceAsset($47766414, "fs/opening.bnr", 6496)

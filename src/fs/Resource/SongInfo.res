@@ -20,7 +20,7 @@ COMMENT=
 GENRE=1
 
 #2
-SONGNAME=Kimi ni BUMP
+SONGNAME=Kimi ni Bump
 FILENAME=02kimini
 OFFSET=0.6
 LENGTH=180
@@ -39,7 +39,7 @@ COMMENT=
 GENRE=1
 
 #3
-SONGNAME=Matsuken Samba Ⅱ
+SONGNAME=Matsuken Samba II
 FILENAME=03matsuken
 OFFSET=2.4
 LENGTH=120
@@ -77,7 +77,7 @@ COMMENT=
 GENRE=1
 
 #5
-SONGNAME=Rokoroshon
+SONGNAME=Locolotion
 FILENAME=05LOCO
 OFFSET=2.2
 LENGTH=200
@@ -110,7 +110,7 @@ PRICE=825
 4=3
 B=1
 C=2
-RUBY=This Is the Way That I Live
+RUBY=That's the Way It Is
 COMMENT=
 GENRE=1
 
@@ -134,7 +134,7 @@ COMMENT=
 GENRE=1
 
 #8
-SONGNAME=Ignited-
+SONGNAME=ignited
 FILENAME=08ignited
 OFFSET=1.4
 LENGTH=120
@@ -186,7 +186,7 @@ PRICE=5210
 4=2
 B=3
 C=1
-RUBY=
+RUBY=Come Over to my House
 COMMENT=Atashinchi Ending theme
 GENRE=2
 
@@ -263,7 +263,7 @@ PRICE=265
 B=5
 C=6
 RUBY=
-COMMENT=
+COMMENT=Naruto Theme
 GENRE=1
 
 #15
@@ -300,7 +300,7 @@ PRICE=9040
 4=1
 B=3
 C=2
-RUBY=
+RUBY=I'm Popular
 COMMENT=Crayon Shin-chan Theme
 GENRE=2
 
@@ -343,7 +343,7 @@ COMMENT=Touch Theme
 GENRE=2
 
 #19
-SONGNAME=Ashita ni Nattara・・・
+SONGNAME=Ashita ni Nattara...
 FILENAME=19ashita
 OFFSET=0.6
 LENGTH=120
@@ -357,7 +357,7 @@ PRICE=551
 4=4
 B=6
 C=5
-RUBY=
+RUBY=When Tomorrow Comes
 COMMENT=Donkey Kong Country Theme
 GENRE=2
 
@@ -376,12 +376,12 @@ PRICE=884
 4=5
 B=4
 C=6
-RUBY=
+RUBY=                      Heaven
 COMMENT=Donkey Kong Country Ending Theme
 GENRE=2
 
 #21
-SONGNAME=Doremifa Daijoubu
+SONGNAME=Do Re Mi Fa Daijoubu
 FILENAME=21doremi
 OFFSET=0
 LENGTH=200
@@ -400,7 +400,7 @@ COMMENT=Hajimete no Otsukai Theme
 GENRE=3
 
 #22
-SONGNAME=Youderu Tabe Houdai
+SONGNAME=Yodel Tabehoudai
 FILENAME=22Yodel
 OFFSET=1.6
 LENGTH=200
@@ -414,7 +414,7 @@ PRICE=10029
 4=6
 B=8
 C=6
-RUBY=
+RUBY=                  Buffet
 COMMENT=
 GENRE=10
 
@@ -471,7 +471,7 @@ PRICE=785
 4=3
 B=1
 C=3
-RUBY=
+RUBY=What a Nice Hot Spring
 COMMENT=
 GENRE=10
 
@@ -490,7 +490,7 @@ PRICE=877
 4=1
 B=2
 C=1
-RUBY=
+RUBY=My Palms to the Sun
 COMMENT=
 GENRE=7
 
@@ -1102,3 +1102,4 @@ RUBY=
 COMMENT=
 GENRE=0
 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

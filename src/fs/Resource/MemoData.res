@@ -1,701 +1,594 @@
-#MemoData
-#0
 COUNT=0
-COMMENT=ファ～ンキ～・ニュ～ス！！！\nというわけで、もうここで伝えるコト\nホントになくなっちゃたヨ～。\nあとは自由にプレイして\nウデをみがいてチョ～ダイ！！
+COMMENT=Funky News!!!\nActually, ain't much to report.\nNo, Really, THAT'S IT.\nPlay however much you want,\nthen wash your hands and DIG IN!
 SHEET=2
 CHARA=2
 FLAG=
 
-#1
 COUNT=-1
-COMMENT=収穫オツカレサマ～！！\n木を育てて、実を収穫するのって\nとってもタイヘンだけど、ヨロコビも\n大きいデスネ～！！１００日後にも\nまたヨロシクたのみマスヨ！
+COMMENT=You must be tired from the Harvesting!\nGrowing your banana tree and harvesting fruit.\nIt's a bit strange but I'm not complainin'.\n100 DAYS worth of bananas, huh?\nThanks again for your hard work!
 SHEET=3
 CHARA=3
 FLAG=
 
-#2
 COUNT=-2
-COMMENT=何だかリズムバナナの木が手拍子に\n反応するようになってるみたいデ～ス。\n木がゴキゲンだと成長も良くなるって\nウワサは本当ですかネ～？\n[成長を見る]でためしてみてネ～！
+COMMENT=Seems like the Banana Tree really\nlikes your Clapping.\nIf the tree's happy, it'll bear better fruit.\nWanna test that theory?\n[See What's Grown] for your results.
 SHEET=2
 CHARA=2
 FLAG=
 
-#3
 COUNT=-3
-COMMENT=バナナもけっこう取りましたネ～！\nどれくらい集めたらＤＫアイランドの\nみんなにくばれますかネ～？\nミ～の予想では１０００本ぐらいは\n必要かと思いマスネ～！
+COMMENT=I eat a lot of bananas!!\nHow many do you think it would take\nto feed everyone in DK Island?\nAccording to my estimations,\nI'd roughly say 1000!!
 SHEET=2
 CHARA=3
 FLAG=
 
-#4
 COUNT=-4
-COMMENT=超コンガラッチュレ～イショ～ン！！\n[トライアル/上級]のお題は\n全てクリアデ～ス！\nユ～は、テクニックもあるけど\nゲ～ムセンスもあるネ～！ウン！
+COMMENT=SUPER AWESOME!\nYou cleared [TRIAL/Advanced Set]!\nYou must be\nREALLY GOOD at\nArcade games!!! Good job!
 SHEET=1
 CHARA=3
 FLAG=
 
-#5
 COUNT=-5
-COMMENT=目指す１０００本まで何本ですかネ・・・\nギャッ！！アト半分キッテマ～ス！\nガンバって飛びまショ～！！！\n・・・マァ、ミ～はスーパータル大砲の\nメンテをするくらいデスガ・・・。
+COMMENT=How long 'til we get 1,000 Bananas?\nWe're already halfway there!\nGood Luck and enjoy the flight!\n...ah, what a big Cannon,\nI've got a lot of maintenance to do...
 SHEET=3
 CHARA=1
 FLAG=
 
-#6
 COUNT=-6
-COMMENT=あとチョットで１０００本デスネ～！\nみんなのヨロコぶ顔が楽しみデ～ス！\nでも、何か気になるコト\nあったような、なかったような・・・。\nアイムソ～リ～！忘れましたァ～！
+COMMENT=1,000 Bananas in just a moment!\nI'm looking forward to seeing everyone's smiles!\nbut there's something that might or might not happen...\nI'm Sorry!!\nI forgot!!
 SHEET=2
 CHARA=1
 FLAG=
 
-#7
 COUNT=-7
-COMMENT=バナナパ～ティ～もオツカレサマ～！\n実にスバラシィ～パ～ティでした！\nこのノリで、[タルタルアタック大会]を\n開いちゃいマ～ス！\nみんなで、レッツプレイ！！
+COMMENT=These Banana Parties take a lot out of me!!\nThe last one was AWESOME!\nI'm hosting a [Banana Attack] Tourney!\nIt's Open!!\nLet's Play, y'all!!
 SHEET=3
 CHARA=2
 FLAG=
 
-#8
 COUNT=-8
-COMMENT=音色！全品お買い上げ！\nアリガトございマシタ～！\nみんなでナイスな音色を組み合わせて\nナイスなコンガライフを\n送ってくださいマセ～！
+COMMENT=ALL SOUNDS PURCHASED!!\nThanks for buying up all the sounds at\nBongo-a-Go-Go!! Pick some good sounds and\nmake some Beautiful Music!!!\nI'd like to hear it!!
 SHEET=3
 CHARA=3
 FLAG=
 
-#9
 COUNT=-9
-COMMENT=エキスパート譜面！全品お買い上げ！\nアリガトございマシタ～！\nあとは、全曲クリアするマデ\nガンバってネ！（チップももっと\n稼いで、使ってもらわないとネ・・・）
+COMMENT=ALL MUSIC PURCHASED!!\nThanks for buying up all the songs at Jungle Jams!!\nNow, make sure to clear all the songs in Gorilla Mode!\n GOOD LUCK!! (Now I've gotta\nearn enough coins to buy some too...)
 SHEET=2
 CHARA=2
 FLAG=
 
-#10
 COUNT=-10
-COMMENT=コンガラッチュレ～イショ～ン！！\nバッチが全てそろいましたネ～！\nユ～のお気に入りのバッチは、\nどのバッチダ～イ？\nミ～のバッチなら目が高いネ！
+COMMENT=CONGRATULATIONS!!\nALL BADGES UNLOCKED!!\nWhich Badge is your favorite?\nIf it's the one with MY FACE,\nYa got GOOD TASTE!
 SHEET=1
 CHARA=1
 FLAG=
 
-#11
 COUNT=-11
-COMMENT=ヒュ～～～！！ス～パ～ク～ル！！！\nシンクロ率１００％出ましたネ～！\n４人の息がピッタリじゃないと\nこうはならないから、これはカナ～リ\nグレ～トだと思いマ～ス！！
+COMMENT=YOU~~~!!SP~AR~K~LE!!!\nYour Synch Rate was at 100%~!\nUnless all 4 of you were on the same\nwavelength, THIS COULDN'T HAPPEN!\nTHAT'S AWESOME!!!
 SHEET=1
 CHARA=2
 FLAG=
 
-#12
 COUNT=-12
-COMMENT=ワ～ォ！！ベリ～ク～ル！！\nシンクロ率１００％出ましたネ～！\nユ～たちの相性バッチリネ！\nこのチョ～シで何ゴトもうまくいくと\nベリベリハッピ～デスネ～！
+COMMENT=Wow~!!VE~RY~COOL!!\nYour Synch Rate was at 100%~\nYour compatibility with others is perfect!\nThings are gonna go REAL WELL with this!\nVery Very Happy~!!
 SHEET=1
 CHARA=3
 FLAG=
 
-#13
 COUNT=-13
-COMMENT=コンガラッチュレ～イショ～ン！！\n[トライアル/中級]のお題は全て\nクリアデ～ス！ムズカシかったカイ？\nえ？ヘロヘロなの？ふ～ん、\nま、そんなもんジャナイ？じゃ、次！
+COMMENT=CONGRATULATIONS!!!\nAll [TRIAL/Intermediate] Sets CLEARED!!!\nWas it Annoying?\nAre Ya Tired?\nWanna Quit? NEXT!!
 SHEET=1
 CHARA=1
 FLAG=
 
-#14
 COUNT=-14
-COMMENT=コンガラッチュレ～イショ～ン！！\n[トライアル/初級]のお題は\n全てクリアデ～ス！\nクランキーが出すお題なんか\nチョロイチョロイって感じィ～？
+COMMENT=CONGRATULATIONS!!!\nAll [TRIAL/Beginner] Sets CLEARED!!!\nDo you think the other\nTrials will be\nmuch more challenging?
 SHEET=1
 CHARA=3
 FLAG=
 
-#15
 COUNT=-15
-COMMENT=グッジョ～～～～ブッ！！！！\n[ファミコン部屋]の中の曲は\n全てＤＫマークゲットネ～！\nユ～をこれから、○○名人と\n呼ばせてもらいマスッ！
+COMMENT=GOOD JO~~~~B!!!\nYou've just cleared\nall the songs in NES HALL!\nNow we can call you...\nRETRO ???? MASTER!!
 SHEET=1
 CHARA=1
 FLAG=
 
-#16
 COUNT=-16
-COMMENT=オ～メデ～トサ～ン！！！\n[デュエット/エキスパート]で\n全曲、ＤＫマークゲットネ～！じゃあ\n新曲「クルクルランド」あげますカラ\n２人でプレイしてチョ～ダイ♪
+COMMENT=CON~GRA~TU~LA~TIONS!!!\nYou've just cleared\nall the songs in DUET/GORILLA!\nNew Song [Clu Clu Land] Unlocked.\nKeep enjoying two-player mode!
 SHEET=1
 CHARA=2
 FLAG=55
 
-#17
 COUNT=-17
-COMMENT=オメデトゴザイマ～ス！！！\n[ソロ/エキスパート]で\n全曲、ＤＫマークゲットネ～！\n新曲「アイスクライマー」\n放出しまショウ♪（ミ～は太っ腹ネ）
+COMMENT=CONGRATULATIONS!!\nYou've just cleared\nall the songs in [SOLO/GORILLA] Mode!\nNew Song [Ice Climbers]\nUnlocked  (I'm Feeling Generous!)
 SHEET=1
 CHARA=1
 FLAG=56
 
-#18
 COUNT=-18
-COMMENT=[フルコース]クリア～～！\n[アドリブ広場]の[背景選択]で\nミ～の飛行船「フライハイ号」を\n使えるようにしときマシタ～！これで\n自由にアップダウン楽しみネ～！
+COMMENT=[FULL COURSE] CLEARED!\nOn [Freestyle Zone], [Change the Background]\nto [FLY HIGH].\nWhile you're in that stage,\nyou can see my airships!!!
 SHEET=1
 CHARA=2
 FLAG=
 
-#19
 COUNT=-19
-COMMENT=コンガラッチュレ～ショ～ン！！！\n[デュエット/ハード]で\n全曲、ＤＫマークゲットネ～！\n新曲「ＸＥＶＩＯＵＳ」を\nあげちゃいマ～ス♪
+COMMENT=CON~GRA~TU~LA~TIONS!!!\nYou've just cleared\nall the songs in DUET/CHIMP!\nNew Song [XEVIOUS] Unlocked.\nKeep enjoying two-player mode!
 SHEET=1
 CHARA=3
 FLAG=52
 
-#20
 COUNT=-20
-COMMENT=[ソロ/ハード]で\n全曲、ＤＫマークゲットネ～！\nエ～っと、どっちがいいデスカ？\n・・・・こっち？ハイ、\n新曲「マリオブラザーズ」♪
+COMMENT=You've just cleared\nall the songs in [SOLO/CHIMP]!\nWhich song should we give you?\nHmm...? Oh! Right!\nNew Song [MARIO BROS.] Unlocked
 SHEET=1
 CHARA=2
 FLAG=51
 
-#21
 COUNT=-21
-COMMENT= [１２曲コース]クリア～！\n「フライハイ号」の改造が間に合って\n よかったヨ。\n 次は[フルコース]で宇宙の果てまで\n レッツゴ～！！
+COMMENT= [12-Song Course] Cleared!\n[Fly High], my airship, is currently\nbeing remodeled.\nNext Up is [FULL COURSE], to the end of the Universe!\nLET'S GO!!
 SHEET=2
 CHARA=3
 FLAG=
 
-#22
 COUNT=-22
-COMMENT=[デュエット/イージー]で\n全曲、ＤＫマークゲットネ～！\nグッジョブ！\n新曲「ドンキーコングＪＲ．」を\nプレゼントしちゃいマ～ス♪
+COMMENT=You've just cleared\nall the songs in [DUET/MONKEY]!\nNew Song [Donkey Kong Jr.] Unlocked.\nConsider it a gift!
 SHEET=1
 CHARA=1
 FLAG=54
 
-#23
 COUNT=-23
-COMMENT=[ソロ/イージー]で全曲、ＤＫマーク\nゲットネ～！グッジョブ！\n・・・・・・・・・・・・・。\nン？　あ、ハイハイプレゼントネ、\n新曲「ドンキーコング」はいド～ゾ♪
+COMMENT=You've just cleared\nall the songs in [SOLO/MONKEY]!\nNew Song [Donkey Kong] Unlocked.\nEnjoy it!
 SHEET=1
 CHARA=3
 FLAG=53
 
-#24
 COUNT=-24
-COMMENT= [６曲コース] クリア～！　飛行船\n「フライハイ号」で[１２曲コース]を\n 飛べるようにしたのでガンバッテ～！\n[アドリブ広場]でもフィナーレ曲で\n 遊べるようになったヨ。
+COMMENT= [6-Song Course] Cleared!\nI'm fixing my airship, [Fly High],\nbut I need you to clear the [12-Song Course].\nYou can also play the last\nsong of the set in [Freestyle Zone].
 SHEET=2
 CHARA=1
 FLAG=
 
-#25
 COUNT=-25
-COMMENT=イェ～イ！金のＤＫをゲット～！\nこの調子でガンガンうまくなって\nＤＫマ～クだらけにしてチョ～ダイ！\nモード内の曲を全てＤＫマークにしたら\n何かイイコト・・・用意しときマ～ス！
+COMMENT=Yeah! Get Golden DK's!\nYou're getting better at this game!\nI bet you can get a bunch of Golden DKs. EASY!!\nIf you get a Gold DK in all the songs...\nYou'll be rewarded with something REAL GOOD!!!
 SHEET=3
 CHARA=2
 FLAG=
-
 #26
 COUNT=1
-COMMENT=ヘイユ～　ハワユ～　コンニチワ～！\nディス　イズ　ファンキ～・ニュ～ス！\n今日からユ～のコンガライフを\nノリノリでサポ～トいたしマ～ス！\nレ～ッツ、コ・ン・ガッ！
+COMMENT=Hey You~ How Are You?~ @HOW YA DOIN'!!\nTHIS IS FUNKY NEWS!\nFrom now on,\nI'll be supporting your Konga life, WITH ENTHUSIASM!\nLET'S GO!!!
 SHEET=1
 CHARA=1
 FLAG=
 
-#27
 COUNT=3
-COMMENT=リズムバナナの木を育てるにはコツが\nいるネ～。最初に生える枝の数で\nそのあとも決まっちゃうからネ～。\n始めてから２５日くらいまでは、\nイカしたプレイすると、グッドネ～！
+COMMENT=There's a trick to growing a Rhythm Banana Tree.\nThe number of branches that grow first\ndetermines the number of branches after that.\nFrom the start to the 25th day,\nif you know what you're doing, it's good, ain't it?
 SHEET=2
 CHARA=2
 FLAG=
-
-#28
+#8
 COUNT=5
-COMMENT=曲セレクトで、曲名の右上にある\nバナナが多いほど、ムズカシ～デス。\nミ～は６本の曲でギブアップ…。\nモチロン、ユ～なら\n１００本くらい、ヨユウでショ？
+COMMENT=While selecting songs,\nthe more bananas on the top-right,\nthe harder the song might be.\nI gave up after 6 Songs!\nYou think you can get a 100-Note Combo?
 SHEET=3
 CHARA=3
 FLAG=
 
-#29
 COUNT=7
-COMMENT=リズムバナナの木はグレ～トや\nオッケ～な音符をたくさん吸うと\nよく育つらしいヨ！\n１００日間でたくさん実らせたいなら\nみんなでたくさんプレイデスネ～！
+COMMENT=The Rhythm Banana Tree seems to grow well\nif you get a lot of GREAT notes!\nIf you wanna easily get\n100 Bananas or so, you should\nPLAY A LOT!!!
 SHEET=1
 CHARA=2
 FLAG=
-
 #30
 COUNT=9
-COMMENT=ピカピカ光るＤＫマークが曲のパネルに\nついたら、その曲をクリアしたあかしネ！\nそのマークは金色？それとも銀色？\nゲージ１００％クリアでつく金色なら\n[ SHUFFLE ]も遊べるようになるヨ！
+COMMENT=When a shiny DK Mark appears on a Song Title\nIt's proof that you've cleared that song!\nIs it Gold? Is it Silver?\nIf you've 100%d it, you can play it in\n[ BEAT-MIX ] as well!
 SHEET=3
 CHARA=1
 FLAG=
 
-#31
 COUNT=11
-COMMENT=リズムバナナの木は大きな枝から\nさらに生える小さい枝の数も重要ネ！\n小さい枝が生えるのは、\n５０日から７０日ってところネ～。\nグッドラックネ～！
+COMMENT=Rhythm Banana Trees grow from large branches.\nThe number of small branches that grow is also important!\nIt takes roughly\n50 to 70 days for small branches to grow.\nGood Luck!
 SHEET=2
 CHARA=3
 FLAG=
-
-#32
+#2
 COUNT=13
-COMMENT=チョト待た、スト～ップ！\nドンキーコンガとドンキーコンガ２の\nセーブデータを消したらダメダ～メ！\n集めた音色のデータをコッチでも\n使えるんだからサ！とっておきなヨ！
+COMMENT=YO, HOLD UP A SEC!\nDON'T DELETE YOUR DONKEY KONGA 1+2 DATA!\nYou can use your purchased songs and sounds\nin THIS Donkey Konga!!\n(Or just get the gamesaves?)
 SHEET=1
 CHARA=3
 FLAG=
 
-#33
 COUNT=15
-COMMENT=ドンキー！タイヘンデ～ス！！！\nジャングルのド真ん中で\nひみつ基地を見つけちゃいマシタ！\n[ファミコン部屋]って書いてマシタ～！\nセレクト画面でチェックデ～ス！
+COMMENT=Hey, DK! This was a lot!!\nIn the middle of the jungle,\nI found a secret base!\nCheck out the [NES Hall]!\nCheck it out in the Select Screen!
 SHEET=2
 CHARA=1
 FLAG=42
-
-#34
+#4
 COUNT=17
-COMMENT=リズムバナナの花は見たカ～イ？\n花は７５日からチョットの間しか\n咲かないハズカシがりやネ～。\nしかも花の色は、一番たくさん\n吸いこんだ音符の色になるらシ～ヨ！
+COMMENT=Did you see the Rhythm Banana flowers?\nThe flowers only bloom a bit after the 75th day.\nPlus, the color of the flower\nwould be the color of the\nnotes you played the most!
 SHEET=3
 CHARA=2
 FLAG=
 
-#35
 COUNT=20
-COMMENT=青いリングがついたシンクロ連打は、\n速くたたくとシンクロ率がアップするネ。\nどんだけ速くたたけばいいかって？\nん～、そうネ～。\nＣＯＭより速くたたけばいいハズネ。
+COMMENT=Synch Rolls with a blue ring\ncan increase the Synch rate if you roll faster.\nHow much faster should you hit?\nWell...\nI'd say you should roll faster than the COM.
 SHEET=1
 CHARA=1
 FLAG=
-
-#36
+#6
 COUNT=23
-COMMENT=[ SHUFFLE ] って何かと思って、\nためしにミ～がプレイしてみたワケ！\nそしたらプレイするたびにちがう音符が\n出てきて覚えられませんデシタ…。\nミ～にはヒジョ～にキビシィ～！！
+COMMENT=I got curious about [Beat-Mix],\nand I started to regret it!\nEverytime I play, it's a different note,\nand I can't even memorize it...\nMy, WHAT A CHALLENGE!!!
 SHEET=2
 CHARA=2
 FLAG=
 
-#37
 COUNT=26
-COMMENT=メモリーカードにジャングルビートの\nセーブデータがあると・・・なんと！\n音色が１つ増えてしまいマァ～ス！\n持ってる人はもう気付いてマシタ？\nラ～ウンド、ワン！開始！カーン！！
+COMMENT=If you've got savedata for Jungle Beat\nOn your memory card...\nYour sound list has just increased by ONE!\nIf you know, YOU KNOW!\nRound One! Ready? GO!
 SHEET=3
 CHARA=3
 FLAG=
-
-#38
+#8
 COUNT=30
-COMMENT=ドンキー！ミ～は、やりマシタ～！！\n[ファミコン部屋]の中をガサゴソしたら\n新曲「ＭＡＰＰＹ」を見っけちゃい\nマシタァァ～♪　こ～なったら\nドンドン曲をさがしちゃいマスヨ～！
+COMMENT=Donkey! I did it!!\nIf you mess around in the [NES Hall],\nyou'll see that the New Song [MAPPY] is Unlocked!\nI'm gonna have to go\nlook for this one MYSELF!
 SHEET=1
 CHARA=2
 FLAG=37
 
-#39
 COUNT=34
-COMMENT=ミ～が作った飛行船は、タルコンガが\n出す音のパワーで空を飛ぶのデ～ス。\n上手くたたけばドンドンのぼりマ～ス。\n[チャレンジ]で、どこまでのぼれるか\n実験してみまショ～！
+COMMENT=The Airship I've built\ntakes flight with the power\nof the sound made by Kongas.\nIf you hit it well enough, you can fly easily.\nSee how far you can go in [Challenge]!
 SHEET=2
 CHARA=3
 FLAG=
-
 #40
 COUNT=38
-COMMENT=みなさ～ん、きんきゅ～ニュ～ス～！\nクランキーが[トライアル]というモードを\n追加したと言ってマ～ス！\nミ～たちのプレイをテストするって\n意気込んでマスヨ・・・。
+COMMENT=Hey, guys! IMPORTANT NEWS!\nCranky just added a [TRIAL] mode.\nMan, I wish I thought of that!\nI'm really excited about\nbeing able to test-play this...
 SHEET=3
 CHARA=1
 FLAG=
 
-#41
 COUNT=42
-COMMENT=[ファミコン部屋]がムズカシ～ときは\nソロだけじゃなく、デュエットも\nあそんでみるとグッドかも？デスヨ！\nちがったリズムが楽しめるし、\nミ～はこっちも好きネ～！
+COMMENT=[NES Hall] is a bit of a challenge!\nNot just on SOLO mode but in DUET too!\nBut is it fun? You bet it is!\nYou can enjoy a variety of NES songs!\nI like this mode too!!
 SHEET=1
 CHARA=3
 FLAG=
-
-#42
+#2
 COUNT=46
-COMMENT=[トライアル]は、ユ～の音楽センスを\nいきなりテストデス！合格すれば、\n[ペアバッチ・チャンス]に挑戦デスッ！\nココだけの話、新しいバッチが\n手に入るの、ココだけネ！
+COMMENT=[TRIAL] mode is a Lightning-Round test of\nYour sense of Music! If you win,\nYou get to [Match that Badge]!\nYou can only unlock new badges\non this mode here!
 SHEET=2
 CHARA=1
 FLAG=
 
-#43
 COUNT=51
-COMMENT=青いリングがついたシンクロ音符は、\nＢＡＤ出しても、みんなでＢＡＤなら\nシンクロ率がアップする音符ネ。\nヘタッピなドンキーとディディーでも\n息が合えばシンクロ率アップネ！
+COMMENT=Synch Notes with a Blue Ring are\nnotes that increase the syncro rate;\nEven if everyone plays BAD notes, it won't be a BAD game.\nEven if DK and Diddy are all offbeat,\nif they get along, the syncro rate will go up!
 SHEET=3
 CHARA=2
 FLAG=
-
-#44
+#4
 COUNT=59
-COMMENT=ガンバってるユ～にミ～から\nごほうびをあげちゃいマスッ！\nハイ、新曲「ゼルダの伝説」♪\n[ファミコン部屋]へレッツゴ～！！\nでも、ゲームは１日１時間までョ！
+COMMENT=Here's a reward for\nplaying so much!\nNew Song [The Legend of Zelda] Unlocked.\nCheck it out at the [NES Hall]!\nBut you can only play games for 1 hour a day!
 SHEET=1
 CHARA=1
 FLAG=44
 
-#45
 COUNT=65
-COMMENT=リズムバナナの木に手拍子してやると\nよろこんで成長するからイ～ケド、\n収穫の時に木がかたむいちゃったり、\nゆれちゃうのでタイヘンネ～。\n何ゴトもホドホドネ～、マジで！
+COMMENT=If your clap your hands at a Rhythm Banana Tree,\nIt'll thrive, it'll produce the best Bananas,\nand make us all happy.\nThat's Amazing!\nSeriously!
 SHEET=2
 CHARA=2
 FLAG=
-
-#46
+#6
 COUNT=70
-COMMENT=[トライアル]のお題には、\n上級にもなると「ファミコン」ってのも\nあるみたいヨ。もしかしたら、まだ\nゲットしてないファミコンＢＧＭが\nプレイできるかも知れないネ～。
+COMMENT=[TRIAL] mode seems to\nrandomly just pick\nsongs from the [NES Hall]. Maybe,\nYou'll be able to play a song from there\nthat you've not yet unlocked.
 SHEET=3
 CHARA=3
 FLAG=
 
-#47
 COUNT=75
-COMMENT=ど～も手拍子が入りづらいナァ。\n・・・・ってときは、タルコンガの\nセンサー感度を変えた方がイイデスネ。\nミ～が経営している[電器屋]に来れば\nいつでも調整できマスヨ？
+COMMENT=To adjust the Clap Sensor sensitivity, you\nneed to visit the Electric Hut.\nMove the cursor to the right\nso the Clap Sensor picks up\nonly loud noises like claps, and\nnot just background sounds.
 SHEET=1
 CHARA=2
 FLAG=
-
-#48
+#8
 COUNT=80
-COMMENT=バナナ収穫祭の真っ最中に、チップが\n足りなくなると収穫終わっちゃいマス～。\n収穫前にしっかりためときマショ！\nえ？もらったチップを何に使っている\nかって？　それは言えマセ～ン♪
+COMMENT=While you're harvesting Bananas,\nIf you run out of Coins, the harvest will end.\nIt's good to stock on coins before harvesting!\nWhat's that? You've used your coins already?\nWhat'd you buy? I wonder...
 SHEET=2
 CHARA=3
 FLAG=
 
-#49
 COUNT=85
-COMMENT=そうデシタ、そうデシタ。セレクト\n画面で[○○へもどる]を選ぶ代わりに\nタルコンガを左右同時押しすれば\nもどれるのデシタ。ミ～はついつい\n忘れちゃうんデスヨ・・・・・・。
+COMMENT=Have you been using the "Return to" command\nto cancel the song or mode you've selected?\nYou know...it's easier\njust to hold down both\ndrums on your bongos!
 SHEET=3
 CHARA=1
 FLAG=
-
 #50
 COUNT=90
-COMMENT=バナナフェアリーは２５コンボごとに\n現れて、１０コンボ後に帰って行くネ。\nリズムバナナの木で作ったタルコンガ\nの音色を聴き分けて近寄ってくる\nというウワサネ～。
+COMMENT=The Banana Fairy appears once every\n25 Combos, but she'll go away after\n10 more combos.\nRumor has it, wherever the sound of\nKongas are, she follows.
 SHEET=1
 CHARA=3
 FLAG=
 
-#51
 COUNT=95
-COMMENT=バナナ収穫祭でパワ～をためるときは\nしっかりと面の中心を連打ネ～！\nタルコンガのフチをたたいちゃうと\n手拍子に似た音が出て、アリャッ！\nドンキー勝手に飛んでっちゃうヨ～！
+COMMENT=When you get POWER at the Banana Harvest,\naim for the CENTER!\nIf you hit the sides of the Konga,\nYou'll hear a Clapping sound!\nAnd DK might fly off the handle and miss his mark.
 SHEET=2
 CHARA=1
 FLAG=
-
-#52
+#2
 COUNT=100
-COMMENT=スーパータル大砲のパワ～はデスネ、\nミ～の経験からすると、ど真ん中に\n当たったら６０本ってとこデスかネェ。\nイッポンでも多く収穫しまショ～！\nＫＯＮＧＧＧＡＡＡＡＡＡ！！！
+COMMENT=That Big Barrel Cannon is Overpowered!\nFrom what I see, if you hit that center,\nYou might just get 60 Bananas.\nThat's a pretty big harvest!\nKONGGGAAAAAA!!!
 SHEET=3
 CHARA=2
 FLAG=
 
-#53
 COUNT=106
-COMMENT=[トライアル]のドクロ音符は\n見ただけでキンチョ～しちゃいマスが、\nもしマチガってたたいてしまっても、\nＢＡＤでたたいたなら\nぎりぎりセーフみたいデスね。
+COMMENT=Just looking at the Skull notes in [TRIAL]\nis enough to make me wince.\nEven if you just barely hit it,\neven if you get a BAD note...\nIt's still unsafe.
 SHEET=1
 CHARA=1
 FLAG=
-
-#54
+#4
 COUNT=112
-COMMENT=ピンク色の両面連打は、左右同時じゃ\nなくてもたたけるネ！左右交互に\nドガガガガガガガガガガガガガガガガッ\nって、はげしくたたいちゃってサ！！\nイエスッ！ＫＯＮＧＧＧＡＡＡＡ！！
+COMMENT=Pink Rolls don't have to always hit at the same time!\nYou just gotta alternate your Left and Right hits!\nLRLRLRLRLRLRLRLRLRLR!\nYea, THAT'S how you do it!\nKONGGGAAAAAA!!!
 SHEET=2
 CHARA=2
 FLAG=
 
-#55
 COUNT=118
-COMMENT=バナナ収穫祭は、ゲージの白い線に\nパワーを合わせれば、木の中央あたりに\n当たりマスケド、木がかたむいている\nときは、そこよりチョイ下をねらえば\nドンピシャ（ドンキーぴしゃっ）ネ～！
+COMMENT=Pink barrel notes require you to hit both\ndrums together, but you can alternate\nbetween them on rolls.\nTry using both hands to\ndrum out right and left\nrolls, too. It's a lot easier!
 SHEET=3
 CHARA=3
 FLAG=
-
-#56
+#6
 COUNT=124
-COMMENT=[チャレンジ]のフィナーレ曲、\nユ～はもうたたいちゃったカ～イ？\nもうすぐクリアするプレイヤ～を\nこの曲で迎えてくれるなんて\nチョ～カンド～でナミダ出ちゃうゼィ。
+COMMENT=The last song on [Challenge]-\nHave you beaten it yet?\nIt's a welcoming melody,\nyet- knowing it's the last one in the challenge...\nIt's enough to make you cry!
 SHEET=1
 CHARA=2
 FLAG=
 
-#57
 COUNT=130
-COMMENT=クランキーのジ～さまの伝言ネ。\nみんなの演奏もノッてきたところで、\n[かんたんリズム作曲モード]を\nそろそろ作ろうかの、ってサ。\n完成までにもっとウデあげまショ～！
+COMMENT=Just got a Message from Cranky Kong.\n"Now that everyone's played,\nI think it's about time to release [Echo Feature]!\nI'll make it real soon,\nKeep playing, it'll be ready soon!"
 SHEET=2
 CHARA=3
 FLAG=
-
-#58
+#8
 COUNT=136
-COMMENT=チップをためるイチバンの近道は、\nＧＲＥＡＴでたたく！\nＯＫは１枚、ＧＲＥＡＴは２枚、\nバナナフェアリーのマジックにかかれば\n３枚になるのも忘れちゃダメネ～！
+COMMENT=The best way to get Coins is to\nalways hit GREAT notes!\nOK gives 1 coin, GREAT gives 2.\nIf the Banana Fairy comes around,\nYou can get 3 Coins per GREAT note!
 SHEET=3
 CHARA=1
 FLAG=
 
-#59
 COUNT=142
-COMMENT=オゥ、ユ～ノゥ？知ってたカ～イ？\nプレイヤー１だとドンキーが\n演奏するけど、プレイヤー４だと\nミ～が演奏するってコトをサ。\nディディーは２！ディクシ－は３ネ！
+COMMENT=Hey, did ya know?\nDK is always Player 1.\nDiddy Kong is Player 2.\nThat's fine for Duets, but what about Quartets?\nWell, Dixie is Player 3 and I'm Player 4!
 SHEET=2
 CHARA=1
 FLAG=
-
 #60
 COUNT=148
-COMMENT=デデデ出ましたぁ！超ナツカシ～！！\nお宝ソフト　またまたハッケ～ン！\nはい、新曲「ドルアーガの塔」♪\nどこかのビルの６０階から\n発見されたそうデスヨ。
+COMMENT=Here it is!! Super Nostalgia!!\nHere's a blast from the past!\nNew Song [Tower of Druaga] Unlocked.\ Looks like this song was found on the\n60th floor of a building somewhere...
 SHEET=1
 CHARA=3
 FLAG=40
 
-#61
 COUNT=154
-COMMENT=バナナ収穫祭で木がはげしくゆれてる\nときは、ムリをせず、弱いパワ～で\n低めを狙ってくのが　ミ～のオススメヨ。\n発射前に、ゆれ具合をよぉ～～～く\n見ておくとグッドネ。アンダスタン？
+COMMENT=When you're flying around,\nI recommend you don't overdo it,\nand try not to overshoot your movements.\nUse a bit less power and aim\nfor accuracy, not speed or power. Understand?
 SHEET=3
 CHARA=2
 FLAG=
-
-#62
+#2
 COUNT=160
-COMMENT=クランキーのジ～さまより入電！\n[アドリブ広場]についに\n[かんたんリズム作曲モード]が\n完成したそ～デス～！\n[設定変更]の[曲選択]で選んでチョ～！
+COMMENT=Just got a call from Cranky Kong!\nIn [Freestyle Mode] you can now select\n[Echo Feature]!\nJust go through the\n[Song List] via the [Settings] in [Freestyle Mode]!
 SHEET=1
 CHARA=1
 FLAG=
 
-#63
 COUNT=166
-COMMENT=ＣＯＭと[デュエット]の時、\nミ～（プレイヤー４）で演奏すれば、\n必ず下の譜面をプレイ！\n使わないコントローラでＣＯＭの\n音色を選ぶなんて気が利くジャン！
+COMMENT=With COM in [Duet] songs,\nif you play as ME (Player 4)\nYour score will be at the bottom of the screen!\nYou can also choose the sound of a COM player\nwithout having to play their part!
 SHEET=2
 CHARA=2
 FLAG=
-
-#64
+#4
 COUNT=172
-COMMENT=[カルテット]では、プレイヤーが\n多いほど、シンクロ率アップネ！\nドンキー、ディディー、ディクシー、\nそしてミ～が加われば、\nメンバー４人がそろうじゃナ～イ？
+COMMENT=In [Quartet] mode,\nthe more Players there are, the better the syncro rate!\nIf DK, Diddy, Dixie and Me\nare all in, then\nall 4 players will be there, right?
 SHEET=3
 CHARA=3
 FLAG=
 
-#65
 COUNT=178
-COMMENT=リズムバナナの花が咲いたからって\n安心できないのがポイントネ～。\n９０日までに吸ったイカす音符の数で\n実りの数が決まっちゃうらし～ヨ。\n生き物を育てるってムズカシ～ネ！
+COMMENT=Look here, You can't breathe a sigh of relief\nJust because the Rhythm Banana Flowers have bloomed.\nIt's more like: The Number of Notes you've played in the last 90 days\nwill determine the number of fruits to bear!\nRaising living things is hard!
 SHEET=1
 CHARA=2
 FLAG=
-
-#66
+#6
 COUNT=184
-COMMENT=フ～ッ！！　フッ！フッ！\nフゥゥッ～！！（っとホコリをとって）\nハイこれで使えるようになりまシタヨ。\n新曲「スーパーマリオブラザーズ３」\nアスレチック面のＢＧＭデスネ～♪
+COMMENT=Yahoo! Yah! Yippee!!\nPhew! (wipes brow)\nYou can finally play this one...\nNew Song[Super Mario Bros. 3]\nUnlocked.
 SHEET=2
 CHARA=3
 FLAG=47
 
-#67
 COUNT=190
-COMMENT=気付いてマシタ？！[アドリブ広場]では\nタルコンガを強くたたけば、\nキャラもビッグに出るネ！ドンキーは\nチカラの加減知らないからダ～メ～。\nミ～なら強弱つけたナイスプレイするネ。
+COMMENT=Did you know? In [Freestyle Zone],\nIf you hit the Konga hard enough,\nBIG characters appear onscreen!\nDK doesn't know how hard to hit it,\nbut I'll play nice and loud.
 SHEET=3
 CHARA=1
 FLAG=
-
-#68
+#8
 COUNT=196
-COMMENT=どーも曲が聴きづらいナァ。\nどーも音色が聴きづらいナァ。\n・・・ってときはボリュームバランス\n調整ネ！これもミ～が経営している\n[電器屋]にまかせてチョーダイ。
+COMMENT=I can't hear myself play sometimes...\nthe Music sounds a bit louder than my drums.\nNot to worry, though, we can\nAdjust the Volume Balance at the\n[Electric Hut] that I run.
 SHEET=1
 CHARA=3
 FLAG=
 
-#69
 COUNT=203
-COMMENT=[トライアル]は[初級][中級][上級]で\n同じお題が出てくるとは限りまセン。\n上級者もたまには[初級]をやってみろ\nと、クランキーのジ～さまが\n言ってマシタヨ。
+COMMENT=[TRIAL] modes come in [Beginner], [Intermediate] and [Advanced].\nCranky Kong says:\nEven the most Advanced players should try\n[Beginner Mode]\nevery once in a while.
 SHEET=2
 CHARA=1
 FLAG=
-
-#70
+#0
 COUNT=210
-COMMENT=エイヨ～！　ディディ～！！！！\nピザって１０回言ってみてくんないカイ？\nピザピザピザピザピザピザ…。\nんじゃ、これは何？　ソ～イエスッ！\n新曲「ＰＡＣ－ＭＡＮ」ゲットね～♪
+COMMENT=Ay-yo, Diddy!!\nTry saying Wakka 10 times!\nWakkawakkawakkawakkawakka...\nSo... what's this? It's another NES Song!\nNew Song [PACMAN] Unlocked.
 SHEET=3
 CHARA=2
 FLAG=38
 
-#71
 COUNT=217
-COMMENT=じゃんけん連打はたたくごとに、\n「グー」、「パー」、「チョキ」\nの順に変わっていくんダヨナ！\nガムシャラにたたくだけじゃ\n勝てないゼィ！
+COMMENT=When you play rock-paper-scissors,\nit's GOING to change order.\nYou can't win\njust by hitting the Kongas\nreally hard!
 SHEET=1
 CHARA=1
 FLAG=
-
-#72
+#2
 COUNT=224
-COMMENT=「スーパードンキーコング」って\nどこかで聞いたことある名前だなァ\nと思ったら、タルコンガをたたくのが\n一番ウマいヤツの称号らしいのデスが\n本当デスカ～？
+COMMENT=[Super Donkey Kong]!\nI've heard that name before...\nbut when it comes to hitting the Kongas,\nThat's gotta be the title\nOf the best player, right?
 SHEET=2
 CHARA=2
 FLAG=
 
-#73
 COUNT=231
-COMMENT= [バトル]のトランプ・スロットは、\n「スターフォックス　アサルト」から\nミ～の趣味でチョイスしまシタ～。\n・・・・・・・・・・・・・・・・。\n（クリスタルちゃん、ベリ～プリチ～★）
+COMMENT= The best song to use in [BATTLE]\nhas to be [Starfox Assault].\nI'm biased, because of my favorite character!\n(Krystal...\nVery Pretty~
 SHEET=3
 CHARA=3
 FLAG=
-
-#74
+#4
 COUNT=238
-COMMENT=オオオ～ゥ！！！\n[アドリブ広場]には、ミ～のトモダチ\nいっぱいいっぱい集まってるネ。\nみんなの名前を言えたら\nユゥ アァ ベリ～ ドンキ～マニア！
+COMMENT=A lot of my friends\ngot together at [Freestyle Zone].\nIf I could list them all\nby name...\nDonkey-mania would be runnin' wild!
 SHEET=1
 CHARA=2
 FLAG=
 
-#75
 COUNT=245
-COMMENT=いつも[タルタルアタック]でチップ\nもらってますケド、ミ～のヘソクリ\nおかげでだいぶたまったネ。ウホホッ！\nだ～か～ら、買っちゃいマシタヨ！！\nハイ、新曲「バルーンファイト」♪
+COMMENT=I always get coins from [Banana Attack]!\nI might actually be getting the hang of this.\nThanks to you, I've got a lot!!\nSo here's a gift!\nNew Song [Balloon Fight] Unlocked
 SHEET=2
 CHARA=3
 FLAG=45
-
-#76
+#6
 COUNT=252
-COMMENT=[シェア]の風車もミ～の発明品デス。\nタルコンガの音色が風に乗って\n風車を回す仕組みなのデスヨ。\nん？　ドンキー、ディディー、\n風車ゼンゼン回って無いヨ・・・。
+COMMENT=I built the Windmill in [Share] mode.\nKonga notes fly in the air\nand that's how the windmill gets spun.\nHuh? Donkey, Diddy,\nthe windmill's not spinning...
 SHEET=3
 CHARA=1
 FLAG=
 
-#77
 COUNT=258
-COMMENT=飛行船で空を飛んでたら、\n雲の中に何かひっかかってマシテネ。\nまわりにダレもいなかったので\nもらってきちゃいマシタッ！\nハイ、新曲「スカイキッド」ドゾ～♪
+COMMENT=While Flying my airship,\nthe engine caught something in the clouds.\nSince nobody was around,\nI found what got stuck in the engine!\nNew Song [SkyKid] Unlocked.
 SHEET=1
 CHARA=3
 FLAG=41
-
-#78
+#8
 COUNT=264
-COMMENT=[トライアル]のお題で「ＰＯＷ」が\n出たら、ユ～はラッキ～！\nたたくの１回だから、楽チン♪楽チン♪\n・・・・・・ああっ、ヨソ見してて\n見送っちゃいましたァァァァン！
+COMMENT=If a [POW] block shows up during [TRIAL],\nConsider yourself lucky!\nIt's ONE HIT, and it's easy!~ Easy~\nOh!\nI saw one roll by and forgot to hit!
 SHEET=2
 CHARA=1
 FLAG=
 
-#79
 COUNT=270
-COMMENT=オ～ゥ…マジですかァ？\nピカピカ光る１０００チップ銀貨入りの\n不思議なタルの出現率は、１万分の１\nらしいデ～ス。[？]で気付いたら、\nゼッタイ見のがしちゃ～ダメ～ン！！
+COMMENT=Aw... Really?!\nThe chance of getting a mystery note with a Silver $1,000 Coin\nis ONE out of 1000...\nYour chances may be low...\nBUT NEVER ZERO!!!
 SHEET=3
 CHARA=2
 FLAG=
-
 #80
 COUNT=276
-COMMENT=リズムバナナの木の下をよぉ～く\nながめていたら、キラッ！と光るモノ\n見つけちゃいマシタァ。オ～ゥ！\n新曲「星のカービィ　夢の泉の物語」\nをゲットデスネ～♪
+COMMENT=Looking at the bottom of the Rhythm Banana Tree,\nIt's Brilliant! I've found something\nReally shiny!\nNew Song[Kirby's Adventure]\nUnlocked
 SHEET=1
 CHARA=1
 FLAG=48
 
-#81
 COUNT=282
-COMMENT=ミ～は自分で言うのもなんデスガ、\nキチョー面な性格なのデス。\n演奏が終わったら、いつもタルコンガ\nのコードを巻いて、コネクタを\n裏のくぼみにカチっとはめてマス。
+COMMENT=Bit of maintenance advice:\nWhen you're done playing,\nwind up the cord of your Konga,\nand snap the connector\ninto the bottom of the drum.
 SHEET=2
 CHARA=2
 FLAG=
-
-#82
+#2
 COUNT=288
-COMMENT=サイのランビが自慢してたゼィ。\n「バナナ天国」の\n[ストリートライヴ/ソロ/イージー]\n自己ベストは４４１１１点だってヨ！\n記録は破るためにあるってモンサ！
+COMMENT=Rambi the Rhino's glad for himself.\nOn [Banana Tengoku],\nin[Street Performance/SOLO/MONKEY],\nhis personal best is 44,111 Points!\nRecords are meant to be broken!!!
 SHEET=3
 CHARA=3
 FLAG=
 
-#83
 COUNT=294
-COMMENT=秋のカボチャ畑は、\nバナナ禁止のホラ～ワ～ルド！？\nノン！い～いモン見～つけマシタッ！\nハイ、新曲「パルテナの鏡」を\nいただきダ～♪これムズカシ～！！
+COMMENT=Pumpkin Patches in the fall,\nbut No Bananas in Halloween?!\nNo!! They're the best treat!!\nNew Song [Palutena's Castle] Unlocked.\nTrick or Treat~! This is so hard!
 SHEET=1
 CHARA=2
 FLAG=50
-
-#84
+#4
 COUNT=300
-COMMENT=背景のいろんなとこに\nアニマルフレンズが隠れてますネ～。\nユ～はいくつ見つけマシタァ？\n演奏しながら窓の向こうのエリーに\nウインクしちゃうヨユウが欲しいネ！
+COMMENT=Our animal friends are hidden\nin the background in many places.\nHow many have you found?\nSay Hi to Ellie the Elephant for me\nnext time you see her!
 SHEET=2
 CHARA=3
 FLAG=
 
-#85
 COUNT=306
-COMMENT=オゥ、ミ～は感じてマシタァ！\n音符の流れるスピ～ドが変化する曲は、\nメチャクチャ大変なのデ～ス。\nでも曲のリズムにしっかりノッてれば\n問題ナッスィン！フィ～ルしてチョ！
+COMMENT=Yeah, I'm Feelin' this!!!\nSongs where the speed of the notes changes\ncan be a bit hard...\nBut, if you can get in the groove of it,\nthere's no problem! Fill up that CLEAR Gauge!
 SHEET=3
 CHARA=1
 FLAG=
-
-#86
+#6
 COUNT=312
-COMMENT=[バトル]とは男同士の戦い！\nミ～も西部劇のガンマンになって、\n勝ちまくりヨ～ン♪\nえ！？ディクシーが来たって！？\n（それは逃げるが勝ちネ・・・）
+COMMENT=[Battle] mode is a Battle for MEN!\nLike gunmen in a Spaghetti Western,\n[This town ain't big enough for two of us!] \nHuh? Dixie's here?!\n(Eh, Pretend I didn't say anything...)
 SHEET=1
 CHARA=3
 FLAG=
-
-#87
 COUNT=318
-COMMENT=クルールが自慢してたゼィ。\n「ウィリアム・テル」の\n[ストリートライヴ/ソロ/ハード]\n自己ベストは２２３８７０点だってヨ！\nドンキーもやっちマイナァ！
+COMMENT=King K.Rool's been bragging lately.\nHis personal best on\nWilliam Tell Overture on\n[Street Performance/SOLO/Chimp Mode], is 223,870 Points!\nThat's even bigger than DK's Record!
 SHEET=2
 CHARA=1
 FLAG=
-
-#88
+#8
 COUNT=324
-COMMENT=ディディー、最近チョーシ悪いネ？\nカゼなら、あったかくして、\nバナナミルク飲んで、おクスリ代わりに\n新曲「ドクターマリオ」！\nよ～く飲んでチョ～ダイ♪
+COMMENT=Diddy, been feelin' sick lately?\nIf it's a cold, stay warm,\ndrink some banana milk, and instead of medicine,\nenjoy the New Song, [Dr.Mario]!\nDOWN THE HATCH!!
 SHEET=3
 CHARA=2
 FLAG=46
-
-#89
 COUNT=330
-COMMENT=「ドンキーコンガ」は海外でも\n大ブレイクってウワサダヨネ～。\n海の向こうではどんな曲を\n演奏しているのか気になりマスネ～。\nドンキー見てきてくんないカ～イ！？
+COMMENT=[Donkey Konga] is said to be a big hit overseas...\nIf they localized this one properly\nfor a Western audience,\nWhat songs do you think would've gotten picked?\nI guess we'll never know...
 SHEET=1
 CHARA=1
 FLAG=
-
 #90
 COUNT=336
-COMMENT=ミ～は食べのこしのバナナをよく\n地面に埋めマスデスケド、久しぶりに\nドリルでホリ返してみたら、\nこんなのになってマシタッ！\n新曲「Ｄｉｇ Ｄｕｇ」ゲット～♪
+COMMENT=Sometimes, I bury leftover bananas in the ground.\nI let 'em ferment and then\nI dig 'em out with a drill!\nHere's a song that makes me feel like this:\nNew Song [Dig Dug] Unlocked 
 SHEET=2
 CHARA=2
 FLAG=39
-
-#91
 COUNT=342
-COMMENT=リンゴをかじると歯グキから血が\n出ちゃうけど、バナナだったら\nダイジョ～ブ！ノ～プロブレム！\nバナナってヤッパ本当にイイヨ。\nこりゃも～平和のシンボルでショッ！
+COMMENT=Bite into an Apple, and your gums bleed.\nBite into a Banana and...\nALL GOOD, NO PROBLEM!!\nBananas are really good!\nThey're like DK Island's symbol of peace! ? 
 SHEET=3
 CHARA=3
 FLAG=
-
-#92
+#2
 COUNT=349
-COMMENT=西のなんとかシスタ～ズが\n自慢してたゼィ。\n[チャレンジ/ソロ/１２曲コース]の\n自己ベストは３８４９２０２点だとヨ！\nミ～は思わず叫んだネ、ウホ～ッて！
+COMMENT=Not to Brag or Boast,\nBut I'm proud of myself.\nIn [Challenge/SOLO/12-Song Course],\nmy best score is 3,849,202 Points!\nI yelled at the end, like WOAH!!!
 SHEET=1
 CHARA=2
 FLAG=
-
-#93
 COUNT=356
-COMMENT=[タルタルアタック]に失敗して\n海にドボ～ンって落ちたときのキモチを\n曲にしてみまシタ・・・・・。\n新曲「スーパーマリオブラザーズ\n水中ＢＧＭ」　スイスイ行くゼィ♪
+COMMENT=I failed at [Banana Attack]\nand fell into the sea with a THUMP.\nHere's a song that makes me feel like this:\nNew Song[Super Mario Bros.\nUnderwater BGM]@Unlocked 
 SHEET=2
 CHARA=3
 FLAG=43
-
-#94
+#4
 COUNT=363
-COMMENT=ピクニックの背景にある\n木をよぉ～く見ると、ホ～ラ何か\n見えてきませんかネェ？？\nミ～の目のさっかくでショ～カ！？\n[アドリブ広場]で確かめてチョ～！
+COMMENT=In the background of the Picnic theme,\nlook closely, you'll see something.\nWhat, you can't see it?!\nOr can you not believe your eyes?!\nCheck it out at [Freestyle Zone]!
 SHEET=3
 CHARA=1
 FLAG=
-
-#95
 COUNT=370
-COMMENT=今のユ～のウデマエなら\nこの曲にも挑戦できますかネ～！？\nミ～は銀のＤＫマークが限界だけど\nイッチョいってみまショウ～！\n新曲「謎の村雨城」でコンガ～ッ♪
+COMMENT=If'n it ain't too much of a bother,\nCan you try THIS song too?\nI've only ever gotten a Silver DK from it...\nso go Check it out!\nNew Song[Murasame Castle] Unlocked 
 SHEET=1
 CHARA=3
 FLAG=49
-
-#96
+#6
 COUNT=377
-COMMENT=小猿のキッキが自慢してたゼィ。\n「ファイアーエムブレム」の\n[ストリートライヴ/ソロ/エキスパート]\n自己ベスト３２８８４５点だってヨ！\nミ～は、ムリッ！　バトンパスッ！
+COMMENT=I'm a little proud of myself.\nOn [Fire Emblem],\nin [Street Performance/SOLO/GORILLA],\nmy personal best is 328,845 points!\nMan, I'm good!!
 SHEET=2
 CHARA=1
 FLAG=
-
-#97
 COUNT=384
-COMMENT=街でやってたタルコンガ・ショーの\n司会をしに行って来マシタァ～。\nそしたら、めっちゃプリチ～な二人組が\nいマシテ～、たしか名前は・・・\nそぅ！「コンガシスターズ」デシタッ！
+COMMENT=I'm hosting the Donkey Konga Koncert here.\nThere's a duo of cuties performing tonight,\nand if I remember correctly,\nthey call themselves...\n[The Konga Sisters]!!!
 SHEET=3
 CHARA=2
 FLAG=
-
-#98
+#8
 COUNT=391
-COMMENT=新曲「ドンキーコンガ」ハイド～ゾ♪\nえ？ファミコンであったかって？\nＤＫアイランドのおもちゃ屋にはある\nんデスヨ！あるったらあるんデ～ス！\nミ～の曲探しはこれでエンドネッ！
+COMMENT=New[Donkey Konga]Category!\nWanna play NES songs?\nIt's in the DK Island Toy store.\nYour search for retro game music\nis Finally Over!
 SHEET=1
 CHARA=1
 FLAG=36
-
-#99
 COUNT=399
-COMMENT=ミ～はしばらく次の発明品の開発に\n忙しくなるので、ファンキー・ニュース\nはお休みしマ～ス！でも、何かすごい\n記録がでたら、臨時ニュースしマスヨ！\nじゃ～・・・・ＢＹＥ、ＢＹＥ！
+COMMENT=I've got a few things to go fix,\nso FUNKY NEWS is on Hiatus.\nAt least for now, but when\nit's all fixed, I'll come back with new reports!\nUntil then... BYE BYE!!!
 SHEET=2
 CHARA=2
 FLAG=
 
+                                                                                                                                                                                                                                                                                                                                                                    
