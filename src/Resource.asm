@@ -17,14 +17,4 @@ ReplaceAsset($5481A7BC, "fs/Resource/SongInfo.res", 11255)
 ReplaceAsset($5481FCA8, "fs/Resource/SoundSetInfo.res", 2132)
 ReplaceAsset($54844134, "fs/Resource/Trial.res", 6849)
 
-//Raw .dol text
-Text($00145DF0, "Fox |     ")
-Text($00145DFC, "Krystal | ")
-Text($00145E08, "Slippy |  ")
-Text($00146280, "Fox |     ")
-Text($0014628C, "Krystal | ")
-Text($00146298, "Slippy |  ")
-Text($001465D8, "Fox |     ")
-Text($001465E4, "Krystal | ")
-Text($001465F0, "Slippy |  ")
 
