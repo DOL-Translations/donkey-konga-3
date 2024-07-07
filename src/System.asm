@@ -9,6 +9,10 @@ origin $A9628; db $48; db $00 //save
 origin $AD028; db $48; db $00 //the magic
 origin $AF958; db $48; db $00 //mo' magic
 origin $AFAF0; db $48; db $00 //the fairy dust
+origin $1A58BF; db $45 //use GY3E
+origin $1A58DF; db $45 //use GKGE
+origin $1A58FF; db $45 //use GY2E
+origin $1A5927; db $45 //use GYBE
 
 //Raw .dol text
 Text($00145DF0, "Fox |     ")
