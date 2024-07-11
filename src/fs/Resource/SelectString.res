@@ -150,7 +150,6 @@ OPTION_TYPE_A=Type A
 OPTION_TYPE_B=Type B
 OPTION_TYPE_C=Type C
 
-# Hall of Fame
 HALL_REQUEST=Hit Parade
 HALL_REQUEST_COMMENT=See the most popular songs
 HALL_REQUEST_COMMENT2=in each different game mode.
@@ -166,19 +165,18 @@ HALL_CONCERT_SHARE=Concert - Share
 HALL_CONCERT_QUARTET=Concert - Quartet
 HALL_REQUEST_TOTAL_RANKING=All-Mode Total
 
-# Banana Island
 BANANA_VIEW=See what's grown.
 BANANA_VIEW_COMMENT=Let's see how many
 BANANA_VIEW_COMMENT2=bananas you've grown.
 BANANA_VIEW_COMMENT3=
-BANANA_PROLOG=Prologue
-BANANA_PROLOG_COMMENT=The Prologue of the Story
-BANANA_PROLOG_COMMENT2=of this game.
+BANANA_PROLOG=Rhythm Banana Trees?
+BANANA_PROLOG_COMMENT=Cranky teaches the easiest
+BANANA_PROLOG_COMMENT2=way to harvest bananas.
 BANANA_PROLOG_COMMENT3=
-BANANA_STORY=Festival
-BANANA_STORY_COMMENT=The Festival Chapter
-BANANA_STORY_COMMENT2=of the story.
-BANANA_STORY_COMMENT3=
+BANANA_STORY=Introducing... the Super Barrel Cannon!
+BANANA_STORY_COMMENT=Funky unveils his invention
+BANANA_STORY_COMMENT2=to help the Kongs
+BANANA_STORY_COMMENT3=harvest the bananas.
 BANANA_ENDING=The Ending
 BANANA_ENDING_COMMENT=1,000 Bananas Needed
 BANANA_ENDING_COMMENT2=to see the ending of
@@ -192,7 +190,6 @@ BANANA_STAT_MSG_1=Days Farming
 BANANA_STAT_MSG_2=Harvests Made
 BANANA_STAT_MSG_3=Total Amount of Bananas
 
-# Info Bar
 INFO_ENTRY_START_PAUSE=Press START/PAUSE to enter and press again to play.
 INFO_ENTRY_START_2PLAYER=Press START/PAUSE after both players have entered.
 INFO_ENTRY_START_ALL_PLAYER=To begin, press START/PAUSE after all players have entered.
@@ -229,14 +226,12 @@ INFO_ENTRY_SOUND_SET=Left/Right to choose a sound, then press START/PAUSE to ent
 INFO_NEED_GOLD_DK_SOLO=Without a gold DK on Solo, you can't select this.
 INFO_NEED_GOLD_DK_DUET=Without a gold DK on Duet, you can't select this.
 
-# Common
 FOR_SOLO_PLAYER=Single Player
 FOR_2_PLAYER=2 Players
 FROM_1_TO_2_PLAYER=1 or 2 Players
 FROM_1_TO_4_PLAYER=1 to 4 Players
 FROM_2_TO_4_PLAYER=2 to 4 Players
 
-# Common : Return to
 BACK_TO_TITLE=Return to Title Screen
 BACK_TO_TOP_MENU=Return to mode selection
 BACK_TO_PLAYER=Return to player selection
@@ -245,7 +240,6 @@ BACK_TO_SCHOOL=Return to Music Lab
 EXIT_SHOP=Exit shop
 BACK_TO_SELECT_CONTROLLER=Return to Controller selection
 
-# Common : Shops
 NOT_AVAILABLE=Not available
 SOLD_OUT=SOLD OUT
 EXPERT_SCORE=Gorilla Arrangement
@@ -256,7 +250,6 @@ SET_SUFFIX= Set
 PURCHASE_GOODS=BUY
 CANCEL=QUIT
 
-# Common : Others
 YES=YES
 NO=NO
 PRESS_START_TO_EXIT=Press START/PAUSE to go back.

@@ -9,7 +9,7 @@
 - DemoEnding.res
     - not translated
 - DemoFestival.res
-    - not translated
+    - translated
 - DemoPrologue.res
     - translated
 - DemoResult.res
