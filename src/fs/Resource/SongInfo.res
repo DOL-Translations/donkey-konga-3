@@ -77,7 +77,7 @@ COMMENT=
 GENRE=1
 
 #5
-SONGNAME=Locolotion
+SONGNAME=Locomotion
 FILENAME=05LOCO
 OFFSET=2.2
 LENGTH=200
@@ -169,7 +169,7 @@ B=4
 C=5
 RUBY=
 COMMENT=Fullmetal Alchemist Theme
-GENRE=1
+GENRE=2
 
 #10
 SONGNAME=Kite Kite Atashinchi
@@ -207,7 +207,7 @@ B=6
 C=8
 RUBY=
 COMMENT=Detective Conan Theme
-GENRE=1
+GENRE=2
 
 #12
 SONGNAME=Baka Survivor
@@ -226,7 +226,7 @@ B=4
 C=4
 RUBY=
 COMMENT=Bobobo-bo Bo-bobo Theme
-GENRE=1
+GENRE=2
 
 #13
 SONGNAME=Seishun Kyousou Kyoku
@@ -245,7 +245,7 @@ B=7
 C=7
 RUBY=
 COMMENT=Naruto Theme
-GENRE=1
+GENRE=2
 
 #14
 SONGNAME=GO!!!
@@ -264,7 +264,7 @@ B=5
 C=6
 RUBY=
 COMMENT=Naruto Theme
-GENRE=1
+GENRE=2
 
 #15
 SONGNAME=Aim to Be a Pokemon Master
@@ -300,7 +300,7 @@ PRICE=9040
 4=1
 B=3
 C=2
-RUBY=I'm Popular
+RUBY=I Am Super Popular
 COMMENT=Crayon Shin-chan Theme
 GENRE=2
 
