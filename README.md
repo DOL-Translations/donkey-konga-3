@@ -2,7 +2,7 @@
 - File: `Donkey Konga 3 [J].iso`
 - Hash: `877022ACC53A3EB97A4290C45F69BE345DEFA0E0`
 
-As a great Kong once put it, "Banana Slamma!" You asked, we served: 50 freshly picked ~~bananas~~ songs from your favorite animes and TV shows, NES games, and more! Plug in your DK Bongos and hit and clap along to your favorite songs to get the most accurate jam session. Order up!
+As a great Kong once put it, "Banana Slamma!" You asked, we served: 50 freshly picked ~~bananas~~ songs from your favorite animes and TV shows, NES games, and more! Plug in your DK Bongos and hit and clap along to your favorite songs to get the best jam session. Order up!
 
 ## Patching
 #### xdelta patch (Recommended)

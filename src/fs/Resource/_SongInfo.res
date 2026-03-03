@@ -15,8 +15,8 @@ PRICE=404
 4=5
 B=6
 C=4
-RUBY=
-COMMENT=
+RUBY=Orange Range
+COMMENT=Flower
 GENRE=1
 
 #2
@@ -34,8 +34,8 @@ PRICE=879
 4=4
 B=4
 C=6
-RUBY=
-COMMENT=
+RUBY=Ketsumeishi
+COMMENT=Bump Together
 GENRE=1
 
 #3
@@ -53,7 +53,7 @@ PRICE=382
 4=2
 B=5
 C=5
-RUBY=
+RUBY=Ken Matsudaira
 COMMENT=short version
 GENRE=10
 
@@ -72,12 +72,12 @@ PRICE=102
 4=1
 B=5
 C=2
-RUBY=
+RUBY=Ai Otsuka
 COMMENT=
 GENRE=1
 
 #5
-SONGNAME=Locomotion
+SONGNAME=Locolotion
 FILENAME=05LOCO
 OFFSET=2.2
 LENGTH=200
@@ -91,7 +91,7 @@ PRICE=970
 4=2
 B=4
 C=5
-RUBY=
+RUBY=Orange Range
 COMMENT=
 GENRE=1
 
@@ -110,8 +110,8 @@ PRICE=825
 4=3
 B=1
 C=2
-RUBY=That's the Way It Is
-COMMENT=
+RUBY=Puffy AmiYumi
+COMMENT=That's the Way It Is
 GENRE=1
 
 #7
@@ -129,7 +129,7 @@ PRICE=1082
 4=3
 B=1
 C=2
-RUBY=
+RUBY=Mayo Okamoto
 COMMENT=
 GENRE=1
 
@@ -150,7 +150,7 @@ B=5
 C=6
 RUBY=
 COMMENT=Mobile Suit Gundam SEED Destiny Theme
-GENRE=1
+GENRE=2
 
 #9
 SONGNAME=Rewrite
@@ -186,8 +186,8 @@ PRICE=5210
 4=2
 B=3
 C=1
-RUBY=Come Over to my House
-COMMENT=Atashinchi Ending theme
+RUBY=Atashinchi Ending theme
+COMMENT=Come Over to my House
 GENRE=2
 
 #11
@@ -244,7 +244,7 @@ PRICE=7610
 B=7
 C=7
 RUBY=
-COMMENT=Naruto Theme
+COMMENT=Youth Rhapsody - Naruto Theme
 GENRE=2
 
 #14
@@ -267,7 +267,7 @@ COMMENT=Naruto Theme
 GENRE=2
 
 #15
-SONGNAME=Aim to Be a Pokemon Master
+SONGNAME=Mesaze Pokemon Master
 FILENAME=15mezase
 OFFSET=0.5
 LENGTH=120
@@ -281,8 +281,8 @@ PRICE=3104
 4=4
 B=2
 C=1
-RUBY=
-COMMENT=Pokemon Theme
+RUBY=Aim to be a Pokemon Master
+COMMENT=Pokemon Opening Theme
 GENRE=2
 
 #16
@@ -319,7 +319,7 @@ PRICE=318
 4=6
 B=6
 C=3
-RUBY=
+RUBY=Hironobu Kageyama
 COMMENT=Dragon Ball Z Theme
 GENRE=2
 
@@ -571,7 +571,7 @@ COMMENT=from Rossini Opera William Tell Overture
 GENRE=4
 
 #31
-SONGNAME=Super Smash Bros. Melee
+SONGNAME=Multi-Man Melee 2
 FILENAME=31smashbros
 OFFSET=1.4
 LENGTH=180
@@ -586,7 +586,7 @@ PRICE=293
 B=6
 C=7
 RUBY=Dairantou Smash Brothers DX
-COMMENT=Super Smash Bros. Melee Opening
+COMMENT=Super Smash Bros. Melee 
 GENRE=0
 
 #32
@@ -681,7 +681,7 @@ PRICE=0
 B=0
 C=0
 RUBY=
-COMMENT=Famicom Arrangement
+COMMENT=NES Arrangement
 GENRE=9
 
 #37
@@ -1065,7 +1065,7 @@ COMMENT=
 GENRE=9
 
 #57
-SONGNAME=See, the Conqu'ring Hero Comes!
+SONGNAME=See, the Conquering Hero Comes!
 FILENAME=57conquer
 OFFSET=0
 LENGTH=180
